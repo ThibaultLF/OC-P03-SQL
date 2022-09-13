@@ -42,7 +42,7 @@ Le jeu de données est extrait des demandes de valeurs foncières fourni par le 
 - Création des clés primaires;
 - Fusion des requêtes pour les clés étrangères;
 - Suppression des doublons là où c’est nécessaire;
-Le tout est alors exporté au format CSV.
+- Le tout est alors exporté au format CSV.
 
 ### Création, Implémentation, Requête.
 A l'aide des fichiers contenus dans le dossier *Code_sql*, vous pourrez créer la base de données, implémenter les données et enfin réaliser les différentes requêtes demandées.
